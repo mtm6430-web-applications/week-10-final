@@ -1,0 +1,45 @@
+{
+  "products": [{
+      "id": 1,
+      "title": "Hats",
+      "description": "Company logo hats",
+      "price": "15.5",
+      "quantity": 5
+    },
+    {
+      "id": 2,
+      "title": "Bandanas",
+      "description": "Company logo bandanas",
+      "price": "10",
+      "quantity": 7
+    },
+    {
+      "id": 3,
+      "title": "T-Shirts",
+      "description": "Company logo T-Shirts",
+      "price": "25",
+      "quantity": 13
+    },
+    {
+      "id": 4,
+      "title": "Water Bottles",
+      "description": "Company logo water bottles",
+      "price": "30.25",
+      "quantity": 9
+    },
+    {
+      "id": 5,
+      "title": "Bag Packs",
+      "description": "Company logo Bag Packs",
+      "price": "49.99",
+      "quantity": 4
+    },
+    {
+      "id": 6,
+      "title": "Pens",
+      "description": "Company logo pens",
+      "price": "3.99",
+      "quantity": 19
+    }
+  ]
+}
