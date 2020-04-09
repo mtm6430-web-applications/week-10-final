@@ -53,6 +53,7 @@ export default new Vuex.Store({
   },
   getters: {
     getProductById: state => id => {
+      console.log(state);
       return state.products.find(product => product.id === id);
     },
     getProductIndex: state => id => {

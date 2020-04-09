@@ -14,7 +14,9 @@ import ProductCard from "@/components/ProductCard.vue";
 import { mapState } from "vuex";
 
 export default {
+  // using the created lifecycle hook for our compoenet
   created() {
+    // dispatching the fetchData action from our store
     this.$store.dispatch("fetchData");
   },
   // using mapState function to auto create computed property products who's value will be set to our state property products
